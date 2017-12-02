@@ -1,0 +1,7 @@
+Each line begins with a filename of a wav, e.g. "KW_001.wav" line (I want lots of ".wav" files). Please don't read the file name. The rest of the line in quotes should be read.
+This should be very similar to the order I sent you in September. If you can do this order quickly (by Friday) and can do more orders 
+quickly, I have another order immediately after.
+
+Please speak slowly and clearly, like reading to a child.
+
+I will use this to make text to speech software.

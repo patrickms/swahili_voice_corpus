@@ -1,0 +1,10 @@
+book_8477_line_title.wav: Mwalimu Wangu. 
+book_8477_line_0001.wav: Ninampenda mwalimu wangu
+book_8477_line_0002.wav: Yeye ni mrembo mno
+book_8477_line_0003.wav: Yeye ni mwalimu mzuri
+book_8477_line_0004.wav: Ni mtu mwema na mwenye subira
+book_8477_line_0005.wav: Alivyosuka nywele zake zinapendeza sana
+book_8477_line_0006.wav: Amezipamba na shanga za rangirangi
+book_8477_line_0007.wav: Shanga zake ni za rangi za kijani, nyeupe, nyekundu, na manjano
+book_8477_line_0008.wav: Mama, tafadhali nisukie nywele zangu ziwe kama za mwalimu wangu?   Ningekuwa na umri zaidi, ningezipamba nywele zangu kwa shanga
+book_8477_line_0009.wav: Nitakua sawa kabisa na mwalimu wangu!

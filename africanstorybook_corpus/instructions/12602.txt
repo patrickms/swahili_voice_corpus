@@ -1,0 +1,6 @@
+book_12602_line_title.wav: Mamba Mwenye Njaa. 
+book_12602_line_0001.wav: Wakati mmoja palikuwa na mamba mwenye njaa
+book_12602_line_0002.wav: Alitafuta chakula pole pole tena kimya
+book_12602_line_0003.wav: Halafu
+book_12602_line_0004.wav: POO! Mamba anashambulia!   Baada ya hiyo hana njaa tena, na anafurahi
+book_12602_line_0005.wav: Hadi anapohisi njaa tena

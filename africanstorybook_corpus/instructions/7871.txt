@@ -1,0 +1,10 @@
+book_7871_line_title.wav: Mimi Na Familia Yangu. 
+book_7871_line_0001.wav: Mimi na Dinasou wangu tunawaangalia ndege angani
+book_7871_line_0002.wav: Mimi na Ndege wangu tunamkuta Sokwe mtini
+book_7871_line_0003.wav: Mimi ninacheza na Sokwe na twiga wangu milimani
+book_7871_line_0004.wav: Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia
+book_7871_line_0005.wav: Mimi na Kima wangu tunakula ndizi na Nyani kila siku
+book_7871_line_0006.wav: Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia
+book_7871_line_0007.wav: Bwana Kobe nami tunaenda nyumbani polepole na Bi Nyoka
+book_7871_line_0008.wav: Bi Nyoka nami twapenda kusonya na kuimba nyimbo kando ya ziwa
+book_7871_line_0009.wav: Mimi na familia yangu nzima tunaishi pamoja kwa furaha kubwa!

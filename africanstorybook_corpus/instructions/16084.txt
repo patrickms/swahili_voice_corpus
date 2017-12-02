@@ -1,0 +1,16 @@
+book_16084_line_title.wav: Marafiki. 
+book_16084_line_0001.wav: Jina langu ni Simo
+book_16084_line_0002.wav: Nina marafiki wanne
+book_16084_line_0003.wav: Majina yao ni Zizo, Lele, Sisa na Ayanda
+book_16084_line_0004.wav: Rafiki yangu Zizo, hupenda kucheza mpira
+book_16084_line_0005.wav: Rafiki yangu Lele, hupenda kuogelea
+book_16084_line_0006.wav: Rafiki yangu Sisa, hupenda kucheza mchezo wa kidalipo
+book_16084_line_0007.wav: Rafiki yangu Ayanda, hupenda kusoma
+book_16084_line_0008.wav: Mimi hupenda kufanya vyote wanavyopenda kufanya
+book_16084_line_0009.wav: Hucheza mpira na Zizo
+book_16084_line_0010.wav: Huogelea kwenye bwawa na Lele
+book_16084_line_0011.wav: Hucheza mchezo wa kidalipo na Sisa
+book_16084_line_0012.wav: Njoo, rafiki, unapenda nini?   Njoo ucheze mpira nasi
+book_16084_line_0013.wav: Njoo uogelee nasi
+book_16084_line_0014.wav: Njoo ucheze kidalipo nasi
+book_16084_line_0015.wav: Njoo usome nasi!

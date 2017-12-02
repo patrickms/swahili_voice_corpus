@@ -1,0 +1,16 @@
+book_2994_line_title.wav: Msichana Mwenye Titi Moja. 
+book_2994_line_0001.wav: Hapo kale palikuwa na mtu aliyeishi na mkewe aliyempenda sana
+book_2994_line_0002.wav: Siku moja alikwenda msituni kwa matembezi
+book_2994_line_0003.wav: Njiani alikutana na msichana mmoja mwembamba na mrembo mno
+book_2994_line_0004.wav: Alimpenda papo hapo
+book_2994_line_0005.wav: Msichana vile vile alimkubali mara moja
+book_2994_line_0006.wav: Lakini, msichana alimwambia kuwa alikuwa na titi moja tu
+book_2994_line_0007.wav: Kwa hivyo alimwambia aende nyumbani, akate titi moja la mkwewe amletee
+book_2994_line_0008.wav: Kwa njia hii angekuwa na matiti mawili hivyo wangeoana
+book_2994_line_0009.wav: Mwanamme alikimbia kwa kasi, akachukuwa kisu, akamrukia mkewe mpendwa na kukata titi lake mara moja
+book_2994_line_0010.wav: Aliharakisha kwenda msituni alikomwacha mpenzi wake mpya
+book_2994_line_0011.wav: Lakini hakuwapo
+book_2994_line_0012.wav: Aliliita jina lake kwa sauti, lakini ilikuwa kimya tu
+book_2994_line_0013.wav: Kisha alisikia sauti ikisema, 'Kwa nini unaita? Kwani hujui kwamba uko katika msitu wa Musambwa kwa Libeeletwela?'   Mtu yule aliposikia hivyo, alikimbia nyumbani kwa kasi kama risasi Alimpata mkewe tayari akiwa amefariki
+book_2994_line_0014.wav: Alihuzunika sana kwa ajili ya yale alikuwa amefanya
+book_2994_line_0015.wav: Naye alitaka kufa

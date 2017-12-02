@@ -1,0 +1,41 @@
+book_2340_line_title.wav: Mulongo Na Fisi. 
+book_2340_line_0001.wav: Palikuwa na msichana kwa jina Mulongo
+book_2340_line_0002.wav: Aliishi na wazazi wake karibu na kijiji cha Budongo
+book_2340_line_0003.wav: Siku moja mamake Mulongo alimtuma kuchota maji kisimani
+book_2340_line_0004.wav: Njiani, alikutana na marafiki zake wakienda msituni kutafuta kuni
+book_2340_line_0005.wav: Mulongo alitaka kwenda nao
+book_2340_line_0006.wav: 'Tafadhali, nisubirini chini ya mti huu!' alisema, 'Lazima nimchotee mama maji
+book_2340_line_0007.wav: ' Lakini marafiki zake hawakutaka kusubiri
+book_2340_line_0008.wav: 'Sawa, nitawakuta huko msituni!' Mulongo alisema huku akikimbia kwenda kumchotea mamake maji
+book_2340_line_0009.wav: Kisha akaenda msituni kuwatafuta marafiki zake
+book_2340_line_0010.wav: Alifuata njia iliyoelekea kwenye kijito
+book_2340_line_0011.wav: Upande mwingine wa kijito kulikuwa na njia nyingine ndogo kila mojawapo ikielekea upande tofauti
+book_2340_line_0012.wav: 'Njia ipi marafiki zake walifuata?' alishangaa
+book_2340_line_0013.wav: Aliichagua njia iliyokuwa pana kisha akatembea, na kutembea, lakini hakuwapata marafiki zake
+book_2340_line_0014.wav: Alichoka sana kwa hivyo alipopumzika chini ya mti, alilala mara moja
+book_2340_line_0015.wav: Mulongo alipoamka, ilikuwa giza
+book_2340_line_0016.wav: Gizani, macho ya manjano yalimulika
+book_2340_line_0017.wav: Alikuwa amezungukwa na fisi! Aliogopa asiweze hata kulia
+book_2340_line_0018.wav: Alijaribu kukimbia, lakini fisi walimzunguka wakionyesha wazi kuwa walikuwa na njaa
+book_2340_line_0019.wav: 'Usisonge,' sauti ya fisi mkubwa zaidi ilisikika
+book_2340_line_0020.wav: 'Ukikimbia, utaliwa!' 'Tafadhali, niache niende nyumbani!' Mulongo aliwasihi
+book_2340_line_0021.wav: Badala yake fisi walimpeleka Mulongo katika nyumba yao iliyokuwa ndani ya msitu
+book_2340_line_0022.wav: Chumba kilikuwa kichafu kilichojaa mifupa na kelele ya nzi
+book_2340_line_0023.wav: Alilala chini na kudanganya kuwa amelala usingizi
+book_2340_line_0024.wav: Gizani, aliwasikia fisi wakiongea wenyewe kwa wenyewe
+book_2340_line_0025.wav: 'Moto unaendelea vipi?' mmoja aliuliza
+book_2340_line_0026.wav: 'Je, maji yanachemka?' Jibu lilikuwa, 'Kila kitu ni tayari
+book_2340_line_0027.wav: ' 'Nimlete sasa?' 'Ndiyo, ndiyo!' fisi wale wengine walinguruma
+book_2340_line_0028.wav: 'Tunahisi njaa!'   Walikuwa karibu kumvuta Mulongo kumtoa chumbani wakati fisi mkubwa aliongea, 'Fisi, subirini
+book_2340_line_0029.wav: Kumbuka kanuni ya kijiji
+book_2340_line_0030.wav: Hakuna fisi anayekubaliwa kula pekee- ni lazima tuialike jamii nzima kushiriki mlo
+book_2340_line_0031.wav: '   Walichukuwa muda mrefu kabla kurudi na yule fisi mkubwa alianza kusinzia pale mbele ya moto
+book_2340_line_0032.wav: Punde alikuwa anakoroma
+book_2340_line_0033.wav: Hii ilikuwa nafasi nzuri kwa Mulongo! Lakini vipi angeweza kumpita yule fisi? Kwa ukubwa wake, alifunika sehemu yote ya mlango
+book_2340_line_0034.wav: Njia ilikuwa ni moja tu
+book_2340_line_0035.wav: Alijihimiza na kurukia juu ya mgongo wa fisi kwa mara moja, kisha akakimbia, na kukimbia jinsi miguu yake alivyomwezesha
+book_2340_line_0036.wav: Wakati huo huo, fisi wale wengine walirudi na kuona kilichotokea
+book_2340_line_0037.wav: Walimfuata huku wakipiga kelele za hasira na gadhabu
+book_2340_line_0038.wav: Lakini, walikuwa wamechelewa
+book_2340_line_0039.wav: Alipokaribia kijiji chake, mwanakijiji mmoja alimtambua na kushangilia akisema, 'Mulongo, Mulongo anakuja, Mulongo anakuja
+book_2340_line_0040.wav: ' Baba na mama walikimbia kumbusu huku wakishukuru Mungu kwa kumwokoa mototo wao, 'Mulongo, Mulongo, tulidhani umekufa!'   Kutoka siku hiyo, Mulongo na watoto wengine hawakuwahi kururdi msituni pekee yao

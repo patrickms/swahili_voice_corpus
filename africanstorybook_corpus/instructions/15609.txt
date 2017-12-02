@@ -1,0 +1,8 @@
+book_15609_line_title.wav: Mwalimu Wangu. 
+book_15609_line_0001.wav: Ninampenda mwalimu wangu
+book_15609_line_0002.wav: Ni mwalimu mzuri, mvumilivu na mwenye huruma
+book_15609_line_0003.wav: Amesuka nywele zake vizuri
+book_15609_line_0004.wav: Ameweka shanga maridadi katika nywele zake
+book_15609_line_0005.wav: Shanga zake ni za kijani, nyeupe, nyekundu, na manjano
+book_15609_line_0006.wav: Tafadhali mama, nisuke nywele zangu kama vile za mwalimu wangu?   Nitakapokuwa mtu mzima, vile vile nitaweka shanga katika nywele zangu
+book_15609_line_0007.wav: Nikikua, nitakuwa kama vile mwalimu wangu alivyo!

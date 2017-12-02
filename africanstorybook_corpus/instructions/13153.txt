@@ -1,0 +1,31 @@
+book_13153_line_title.wav: Kima Apoteza Mkia Wake. 
+book_13153_line_0001.wav: Sungura alikuwa rafiki mkubwa wa Kima
+book_13153_line_0002.wav: Walishiriki mambo mengi pamoja
+book_13153_line_0003.wav: Siku moja Sungura alisema, 'Hebu twende matembezi tukatafute chakula
+book_13153_line_0004.wav: ' Kima alikubali bila kujua yaliyomsubiri!   Walienda katika shamba la wenyewe na kuanza kula mahindi
+book_13153_line_0005.wav: Sungura alikuwa na njama ya kumtendea Kima uovu
+book_13153_line_0006.wav: Sungura alimwonea Kima wivu kwa kuwa na mkia mrefu
+book_13153_line_0007.wav: Alikuwa amezungumza na wenye shamba
+book_13153_line_0008.wav: 'Kima atakuja kula mahindi yenu leo
+book_13153_line_0009.wav: Mfunze adabu!'   Walipokuwa wakila mahindi, Sungura alijificha na kupiga kelele akisema, 'Mwizi! Mwizi! Mahindi yenu yanaliwa yote!' Kisha akatoroka na kwenda zake
+book_13153_line_0010.wav: Kima hakujua lililokuwa likiendelea
+book_13153_line_0011.wav: Ghafla, wenyewe walifika na kumpata Kima akijaribu kutoroka
+book_13153_line_0012.wav: Hata hivyo, mkia wake mrefu ulimzuia kwenda haraka
+book_13153_line_0013.wav: Walimfuata wakipiga kelele, 'Simama! Simama! Umetumalizia mahindi yetu
+book_13153_line_0014.wav: '   Walimshika na kuanza kumpiga
+book_13153_line_0015.wav: Kima alijaribu kuponyoka na kutoroka tena lakini hakuweza
+book_13153_line_0016.wav: Kima hakuweza kuvumilia kichapo
+book_13153_line_0017.wav: Aliwasihi waache kumchapa ili awaeleze mambo yalivyokuwa
+book_13153_line_0018.wav: 'Nilikuwa na rafiki yangu Sungura
+book_13153_line_0019.wav: Ni yeye aliyenialika,' alilia
+book_13153_line_0020.wav: Hata hivyo, wenyewe hawakumsikiza
+book_13153_line_0021.wav: Mmoja alitoa panga na kusema, 'Leo ni leo! Utashika adabu!' Aliukata mkia wake
+book_13153_line_0022.wav: Sungura alishuhudia kila kitu kutoka alikojificha
+book_13153_line_0023.wav: Wenye shamba waliondoka na kwenda zao
+book_13153_line_0024.wav: Kima alipokimbilia usalama wake, Sungura aliuchukuwa mkia wa Kima na kwenda kuupika
+book_13153_line_0025.wav: 'Nitamwalika Kima kwa chakula cha mchana,' alitabasamu
+book_13153_line_0026.wav: Baada ya mlo, Kima alisema, 'Asante rafiki yangu kwa kuandaa chakula kitamu
+book_13153_line_0027.wav: ' Sungura alimwuliza Kima ikiwa alijua alichokula
+book_13153_line_0028.wav: Bila kujua, Kima alijibu, 'La, sijui!'   Sungura alisema, 'Hicho kitoweo kitamu ulichokula, ni mkia wako
+book_13153_line_0029.wav: ' Baada ya kusema hivyo, alitoroka
+book_13153_line_0030.wav: Na kutoka siku hiyo walikuwa maadui!

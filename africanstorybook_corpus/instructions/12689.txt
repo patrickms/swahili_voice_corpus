@@ -1,0 +1,19 @@
+book_12689_line_title.wav: Mtu Na Simba. 
+book_12689_line_0001.wav: Hapo zamani za kale, palikuwa na mtu aliyekuwa akitembea kichakani
+book_12689_line_0002.wav: Ghafla, alikutana na Simba!   Simba alikuwa akipumzika katika nyasi fupi za msimu wa baridi
+book_12689_line_0003.wav: Makutano hayo yalitokea ghafla mtu huyo asijue la kufanya
+book_12689_line_0004.wav: Alijawa na woga
+book_12689_line_0005.wav: Mwanzoni, Simba alishangaa pia na kuogopa kidogo
+book_12689_line_0006.wav: Lakini mngurumo mkubwa ulisikika kutoka tumboni mwake kwani alikuwa na njaa
+book_12689_line_0007.wav: Mtu yule alijikuta juu ya mti mrefu
+book_12689_line_0008.wav: Alianza kupiga mayowe
+book_12689_line_0009.wav: Simba alilala chini ya mti akisubiri mlo
+book_12689_line_0010.wav: Muda ulipozidi kwenda, Simba alijifanya kulala usingizi
+book_12689_line_0011.wav: Muda mfupi baadaye, mtu yule alilala usingizi
+book_12689_line_0012.wav: Kisha akaamka tena
+book_12689_line_0013.wav: Mwishoni alisinzia na kulala fofofo
+book_12689_line_0014.wav: Lakini mara aliporomoka kutoka juu na kumwangukia yule Simba aliyelala
+book_12689_line_0015.wav: Wote waliamka wakiwa wamechanganyikiwa na kuogopa
+book_12689_line_0016.wav: Simba alisahau mlo wake na kukimbilia usalama wake
+book_12689_line_0017.wav: Mtu yule alianza kukimbia akielekea upande mmoja na Simba
+book_12689_line_0018.wav: Aligundua kwamba alikuwa akikimbia na Simba!   Kwa hivyo alibadilisha mwelekeo wake na kuepuka kuliwa na Simba!

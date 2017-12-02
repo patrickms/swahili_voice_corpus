@@ -1,0 +1,9 @@
+book_12621_line_title.wav: Meno Aina Gani?. 
+book_12621_line_0001.wav: Mamba ana meno makali
+book_12621_line_0002.wav: Simba ana meno makali vile vile
+book_12621_line_0003.wav: Papa ana meno makali sana
+book_12621_line_0004.wav: Kwa nini baadhi ya wanyama wana meno makali?   Ng'ombe ana meno yenye nguvu anayotumia kusaga
+book_12621_line_0005.wav: Ndege hawana meno
+book_12621_line_0006.wav: Wao hula namna gani?   Panya wana meno makubwa ya mbele
+book_12621_line_0007.wav: Awali nilikuwa na meno ya mbele
+book_12621_line_0008.wav: Meno yangu ya mbele yaling'oka! Je, wewe una meno mangapi?

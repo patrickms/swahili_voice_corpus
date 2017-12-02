@@ -1,0 +1,52 @@
+book_12692_line_title.wav: Nyumba Ya Kobe. 
+book_12692_line_0001.wav: Siku moja, Kobe alikuwa akitembea nyasini
+book_12692_line_0002.wav: Alichunguza mbele na kukodolea nyasi macho akamwona Konokono
+book_12692_line_0003.wav: 'Unatafuta nini?' Konokono alimuuliza
+book_12692_line_0004.wav: 'Ninatafuta nyumba yangu
+book_12692_line_0005.wav: Umeiona?'   Alijibu, 'La, sijaiona, lakini nitakusaidia kuitafuta!' Konokono alipanda juu ya gamba la Kobe
+book_12692_line_0006.wav: Kobe alimbeba Konokono mgongoni mwake
+book_12692_line_0007.wav: Walitafuta, lakini hawakuiona
+book_12692_line_0008.wav: Baada ya muda mfupi, walimwona Chiriku
+book_12692_line_0009.wav: 'Mnatafuta nini?' Chiriku aliwauliza
+book_12692_line_0010.wav: 'Ninatafuta nyumba yangu
+book_12692_line_0011.wav: Umeiona?' Kobe alisema
+book_12692_line_0012.wav: 'La, sijaiona, lakini nitakusaidia kuitafuta!' Chiriku akajibu
+book_12692_line_0013.wav: Chiriku aliyapapatua mabawa yake na kupaa
+book_12692_line_0014.wav: 'Unakwenda kwa kasi sana
+book_12692_line_0015.wav: ' Kobe alilalamka
+book_12692_line_0016.wav: Chiriku akamwambia, 'Samahani, wacha nami pia niruke juu ya gamba lako
+book_12692_line_0017.wav: '   Kobe aliwabeba Konokono na Chiriku juu ya gamba lake
+book_12692_line_0018.wav: Walitafuta bila kuona ishara ya nyumba ya Kobe
+book_12692_line_0019.wav: Walipoendelea, walimwona Bunzi
+book_12692_line_0020.wav: 'Mnatafuta nini?' Bunzi aliwauliza
+book_12692_line_0021.wav: 'Ninatafuta nyumba yangu
+book_12692_line_0022.wav: Umeiona?' Kobe alijibu
+book_12692_line_0023.wav: Bunzi alisema, 'La, sijaiona, lakini nitakusaidia kuitafuta!' Alirukia mgongoni mwa Kobe
+book_12692_line_0024.wav: Kobe aliwabeba Konokono, Chiriku na Bunzi
+book_12692_line_0025.wav: Walitafuta, lakini hawakuona nyumba yoyote
+book_12692_line_0026.wav: Hatua chache, walikutana na Panya
+book_12692_line_0027.wav: Alikuwa akitengeneza shada zuri la maua
+book_12692_line_0028.wav: 'Unatafuta nini?' Panya aliuliza
+book_12692_line_0029.wav: 'Natafuta nyumba yangu
+book_12692_line_0030.wav: Umeiona?' Kobe alisema
+book_12692_line_0031.wav: Panya alijibu, 'La, sijaiona, lakini nitakusaidia kuitafuta!' Aliruka mgongoni mwa Kobe
+book_12692_line_0032.wav: 'Subiri, siwezi kuacha maua yangu
+book_12692_line_0033.wav: ' Panya alijinyoosha, akayakusanya maua yake huku Kobe akimsubiri
+book_12692_line_0034.wav: Kobe aliendelea kutembea akiwabeba Konokono, Chiriku, Bunzi na Panya mgongoni mwake
+book_12692_line_0035.wav: Walitafuta, lakini hawakuipata nyumba ya Kobe
+book_12692_line_0036.wav: Upepo uliyapeperusha maua ya Panya
+book_12692_line_0037.wav: Kobe alikuwa amechoka sana
+book_12692_line_0038.wav: Akasema, 'Ninyi ni wazito
+book_12692_line_0039.wav: '   Upepo uliongezeka
+book_12692_line_0040.wav: Anga likabadilika likawa jeusi
+book_12692_line_0041.wav: 'Ah, iwapi nyumba yangu?' Kobe aliuliza
+book_12692_line_0042.wav: Punde, radi ilinguruma milimani na umeme ukaangaza
+book_12692_line_0043.wav: Mara mvua ikaanza kunyesha
+book_12692_line_0044.wav: 'Ah, iwapi nyumba ya Kobe?' Konokono, Chiriku, Bunzi na Panya waliuliza
+book_12692_line_0045.wav: Upepo ulizidi kuvuma na kuvuruga
+book_12692_line_0046.wav: Ghafla, upepo uliwapeperusha wote kutoka mgongoni mwa Kobe
+book_12692_line_0047.wav: Mvua ya mawe ikaanza kunyesha
+book_12692_line_0048.wav: Kwa uoga, Kobe alijikunja na kuingia ndani ya gamba lake
+book_12692_line_0049.wav: Mle ndani mlikuwa joto
+book_12692_line_0050.wav: 'Kumbe, hii ndiyo nyumba yangu!' Kobe aliwaza
+book_12692_line_0051.wav: Konokono, Chiriku, Bunzi na Panya walijikusanya chini ya gamba la Kobe wakatambua, 'Ah, hii ndiyo nyumba ya Kobe!'

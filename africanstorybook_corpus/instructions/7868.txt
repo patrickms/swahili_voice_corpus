@@ -1,0 +1,14 @@
+book_7868_line_title.wav: Mbuzi, Mbwa Na Ng'Ombe. 
+book_7868_line_0001.wav: Mbuzi, Mbwa na Ng'ombe walikuwa marafiki wakubwa
+book_7868_line_0002.wav: Siku moja walisafiri kwa teksi
+book_7868_line_0003.wav: Walipofika mwisho wa safari yao, dereva aliwauliza walipe nauli zao
+book_7868_line_0004.wav: Ng'ombe akalipa
+book_7868_line_0005.wav: Mbwa hakuwa na kiasi kamili cha pesa, akalipa zaidi kidogo
+book_7868_line_0006.wav: Dereva alipokuwa akimrudhishia Mbwa baki ya pesa zake, Mbuzi alitoroka bila kulipa chochote
+book_7868_line_0007.wav: Dereva alikasirika sana
+book_7868_line_0008.wav: Akaondosha gari bila kumrudishia Mbwa baki ya pesa zake
+book_7868_line_0009.wav: Hiyo ndiyo sababu, siku zote, Mbwa hulikimbilia gari kwa nia ya kumpata dereva arudishiwe baki ya pesa zake
+book_7868_line_0010.wav: Mbuzi, anapousikia mlio wa gari, hutoroka
+book_7868_line_0011.wav: Yeye huogopa kushikwa kwa kukosa kulipa nauli
+book_7868_line_0012.wav: Ng'ombe huwa hashughuliki gari linapokuja
+book_7868_line_0013.wav: Yeye huchukuwa muda kuvuka barabara kwa sababu alilipa nauli yake kamili!

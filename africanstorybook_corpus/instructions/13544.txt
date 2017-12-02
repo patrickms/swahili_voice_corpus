@@ -1,0 +1,13 @@
+book_13544_line_title.wav: Khalai Aizungumzia Mimea. 
+book_13544_line_0001.wav: Khalai ni msichana mwenye umri wa miaka saba
+book_13544_line_0002.wav: Jina lake lina maana ya 'aliye mzuri' katika lugha yake ya Lubukusu
+book_13544_line_0003.wav: Khalai anaamka na kuaongea na mmea mchanga wa Mchungwa, 'Tafadhali, kua mkubwa uzae machungwa mengi mabivu
+book_13544_line_0004.wav: '   Khalai anaenda shuleni na njiani anaongea na Nyasi, 'Tafadhali Nyasi, kua kijani zaidi na zaidi na wala usikauke
+book_13544_line_0005.wav: '   Khalai anayapita Maua ya mwituni na kusema, 'Tafadhali Maua, endelea kunawiri ili niweze kukuweka kwenye nywele zangu
+book_13544_line_0006.wav: '   Akiwa shuleni, Khalai anauzungumzia Mti ulioko katikati ya shule, 'Tafadhali Mti, zaa matawi makubwa ili tusomee chini ya kivuli chako
+book_13544_line_0007.wav: '   Khalai anauzungumzia ua unaoizingira shule yake, 'Tafadhali Ua, kua mwenye nguvu ili uzuie shule yetu kutokana na watu wabaya
+book_13544_line_0008.wav: '   Anaporudi nyumbani alasiri, Khalai anautembelea mti wa Mchungwa kuangalia ikiwa machungwa yameiva
+book_13544_line_0009.wav: 'Machungwa bado mabichi,' Khalai anashusha pumzi
+book_13544_line_0010.wav: 'Nitakuona kesho, we mti Mchungwa
+book_13544_line_0011.wav: Labda utanipa chungwa mbivu wakati huo
+book_13544_line_0012.wav: '

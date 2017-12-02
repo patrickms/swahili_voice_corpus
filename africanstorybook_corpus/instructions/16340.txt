@@ -1,0 +1,23 @@
+book_16340_line_title.wav: Mwana Wa Tumbili. 
+book_16340_line_0001.wav: Kwenye msitu wa Miwa paliishi tumbili aliyekuwa na huzuni sana
+book_16340_line_0002.wav: Kila mara alipozaa, mtoto wake alifariki
+book_16340_line_0003.wav: Uchungu wa kufiliwa na watoto wake ulimfanya tumbili kuruka juu na chini
+book_16340_line_0004.wav: Tumbili huyu alikuwa akirukia tawi hili hadi kwenye lingine, akipiga mayowe, Kwi! Kwi! Kwi! Kwi!   Tumbili alikuwa na huzuni wakati wote
+book_16340_line_0005.wav: Huzuni wake ulimzidi haswa alipowaona akina mama tumbili wengine na watoto wao
+book_16340_line_0006.wav: Tumbili mwenye huzuni alijiwayawaya huku na huku
+book_16340_line_0007.wav: Alijiwayawaya kwenye tawi hili na lile! Siku zilipita na tumbili alizidi kulia zaidi
+book_16340_line_0008.wav: Halafu, alizaa tena
+book_16340_line_0009.wav: Aliamua kumpeleka mtoto wake njiani ili wapita njia wamwone na kumtakia heri
+book_16340_line_0010.wav: Tumbili alishuka na kumweka mtotowe njiani
+book_16340_line_0011.wav: Wakati huo, mwindaji alikuwa akirejea nyumbani
+book_16340_line_0012.wav: Alimwona mtoto wa tumbili akilala kando ya njia
+book_16340_line_0013.wav: Mwindaji alimbeba mwana tumbili hadi nyumbani kwake
+book_16340_line_0014.wav: Alipofika nyumbani, wavulana wake watatu walifurahi kumwona mwana tumbili
+book_16340_line_0015.wav: Watatu hao waliimba: Mrushe juu! Mrushe chini! Mrushe kwangu! Mrushe kwake! Mwana tumbili alirushwa kutoka kwa mmoja hadi mwingine
+book_16340_line_0016.wav: Wavulana wale walipoendelea kucheza na mwana tumbili, tumbili alijificha mtini na kuangalia
+book_16340_line_0017.wav: Aliogopa kuwa mtoto huyu naye angefariki kama wengine
+book_16340_line_0018.wav: Mara mke wa mwindaji aliwaona watoto wakicheza na tumbili mtoto
+book_16340_line_0019.wav: Aliwaonya, 'Kuwa waangalifu! Hebu mlete hapa
+book_16340_line_0020.wav: Mtamwangusha!'   Alimchukuwa mwana tumbili mikononi mwake na kumbariki
+book_16340_line_0021.wav: Alipomweka mwana tumbili chini, tumbili alikimbia kwa furaha
+book_16340_line_0022.wav: Alimbeba mwanawe kifuani na kwenda mtini

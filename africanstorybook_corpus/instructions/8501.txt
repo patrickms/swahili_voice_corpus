@@ -1,0 +1,25 @@
+book_8501_line_title.wav: Mumbi. 
+book_8501_line_0001.wav: Hii ni kamba ya kuruka
+book_8501_line_0002.wav: This is a skipping rope
+book_8501_line_0003.wav: Mumbi anaruka kamba pekee yake
+book_8501_line_0004.wav: Mumbi is skipping the rope alone
+book_8501_line_0005.wav: Mumbi ameshikiwa kamba na rafiki yake
+book_8501_line_0006.wav: Mumbi s friend is holding the rope for her
+book_8501_line_0007.wav: Sasa Mumbi anasoma kitabu
+book_8501_line_0008.wav: Mumbi is now reading a book
+book_8501_line_0009.wav: Mumbi anawaaga rafiki zake
+book_8501_line_0010.wav: Mumbi is bidding her friends goodbye
+book_8501_line_0011.wav: Mumbi is washing utensils in the kitchen
+book_8501_line_0012.wav: Mumbi anaosha vyomba jikoni
+book_8501_line_0013.wav: Mumbi anaandika ubaoni
+book_8501_line_0014.wav: Mumbi is writing on the board
+book_8501_line_0015.wav: Sasa Mumbi anakula matunda
+book_8501_line_0016.wav: Mumbi is now eating friut
+book_8501_line_0017.wav: Sasa ni usiku
+book_8501_line_0018.wav: Mumbi analala
+book_8501_line_0019.wav: Now, it is night time
+book_8501_line_0020.wav: Mumbi is sleeping
+book_8501_line_0021.wav: Mama anamzungumzia Mumbi
+book_8501_line_0022.wav: Mother is talking to Mumbi
+book_8501_line_0023.wav: Mumbi anafikiria
+book_8501_line_0024.wav: Mumbi is thinking

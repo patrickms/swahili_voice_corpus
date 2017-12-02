@@ -1,0 +1,20 @@
+book_2229_line_title.wav: Mwezi Na Kofia. 
+book_2229_line_0001.wav: Sote tulienda katika sherehe ya Dasara
+book_2229_line_0002.wav: Papa alimnunulia Chintu miwani ya kupendeza
+book_2229_line_0003.wav: Mama alininunulia kofia ya rangi ya samawati iliyong'aa mno
+book_2229_line_0004.wav: Motto alipata peremende
+book_2229_line_0005.wav: Tukiwa njiani kwenda nyumbani, upepo mkali ulivuma
+book_2229_line_0006.wav: Uliipeperusha kofia yangu mbali
+book_2229_line_0007.wav: Kofia yangu ilizuiliwa katika matawi ya mti wa miiba
+book_2229_line_0008.wav: Nililia sana
+book_2229_line_0009.wav: Na sikula chakula changu cha jioni
+book_2229_line_0010.wav: Baadaye usiku ule, mwezi ulitokezea
+book_2229_line_0011.wav: Uliiangalia kofia yangu pale kwenye mti wa miiba
+book_2229_line_0012.wav: Mwezi ulijaribu kuivaa kofia yangu
+book_2229_line_0013.wav: Ulitabasamu kwa furaha
+book_2229_line_0014.wav: Sikuwa na budi ila kutabasamu pia
+book_2229_line_0015.wav: Baada ya kutoka shule siku iliyofuata, mamangu alinipa kofia nyingine nyekundi iliyong'ara mano
+book_2229_line_0016.wav: 'Mwezi uliituma,' mama alisema
+book_2229_line_0017.wav: Usiku huo, sote, mimi na mwezi, tulivaa kofia zetu kisha tukatabasamu
+book_2229_line_0018.wav: Tulifurahi sana
+book_2229_line_0019.wav: Unadhani jua linahitaji kofia?   Kisia ni kofia gani ambayo nimevaa leo?

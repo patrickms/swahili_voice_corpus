@@ -1,0 +1,18 @@
+book_2530_line_title.wav: Mkoba Uzungumzao. 
+book_2530_line_0001.wav: Hapo zamani za kale aliishi jitu jike lililoitwa Motio
+book_2530_line_0002.wav: Siku moja lilipokuwa likitembea kando mwa ziwa liliwaona wasichana watatu, Lisa, Vera na Elsa
+book_2530_line_0003.wav: Likawauliza, 'Ni nani kati yenu anayependwa na wazazi wote wawili?'   Lisa alijibu kwanza, akasema, 'Mamangu hunipenda zaidi
+book_2530_line_0004.wav: ' Vera naye akasema, 'Babangu hunipenda zaidi
+book_2530_line_0005.wav: ' Elsa akasema, 'Baba na mama wananipenda sawa
+book_2530_line_0006.wav: '   Motio alimwambia Elsa amfuate akamsaidie kuliinua tita la kuni amwekee mgongoni
+book_2530_line_0007.wav: Elsa alimfuata Motio bila kuogopa
+book_2530_line_0008.wav: Walipotembea hatua chache, Elsa almuuliza Motio, 'Zi wapi kuni zako nikusaidie?' Motio akajibu, 'Ziko karibu na ile miti
+book_2530_line_0009.wav: '   Walipofika hapo, Elsa akamuuliza Motio tena, 'Zi wapi kuni zako?' Motio akajibu, 'Haziko mbali kutoka hapa
+book_2530_line_0010.wav: '   Walipokuwa wakitembea, walikutana na mwanamume
+book_2530_line_0011.wav: Mwanamume huyo alimuuliza Motio, 'Mtoto wako anaitwaje?' Motio akajibu, 'Anaitwa Mkoba Uzungumzao
+book_2530_line_0012.wav: '   Elsa aliimba kwa sauti, 'Mimi kamwe si mkoba, Mkoba haongei
+book_2530_line_0013.wav: Ninaitwa Elsa
+book_2530_line_0014.wav: Lo! Nyumbani kwetu, Mama nimpendaye, Baba nimpendaye, Kata nilinywealo maziwa
+book_2530_line_0015.wav: '   Mwanamume huyo alipousikia wimbo wa Elsa, alimhurumia, akamuuliza amwelezee juu ya wazazi wake
+book_2530_line_0016.wav: Alimnusuru kutoka kwa Motio na kumrudisha kwa babake na mamake
+book_2530_line_0017.wav: Wazazi wake walimshukuru mwanamume huyo na wakaishi kwa furaha na mtoto wao

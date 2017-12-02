@@ -1,0 +1,18 @@
+book_7865_line_title.wav: Mbweha Na Zabibu Chachu. 
+book_7865_line_0001.wav: Hapo zamani za kale, palikuwa na Mbweha aliyekuwa na njaa
+book_7865_line_0002.wav: Mbweha alitembea karibu na kichaka akitafuta chakula
+book_7865_line_0003.wav: Aliiona mzabibu uliojaa zabibu mbivu
+book_7865_line_0004.wav: Kichala cha zabibu mbivu kilining'inia
+book_7865_line_0005.wav: Mbweha aliwaza, 'Zabibu hizi zinaonekana tamu kweli kweli
+book_7865_line_0006.wav: ' Alirudi nyuma hatua chache ili aweze kuzirukia zile zabibu
+book_7865_line_0007.wav: Zabibu zilikuwa juu sana
+book_7865_line_0008.wav: Mbweha alipozirukia, alianguka kwa mgongo wala hakuzifikia zile zabibu
+book_7865_line_0009.wav: Mbweha aliinuka akurudi nyuma zaidi ili aweze kuzifikia zabibu
+book_7865_line_0010.wav: Mara hii alifika karibu zaidi, lakini akaanguka tena kwa kishindo
+book_7865_line_0011.wav: Alijaribu tena na tena, lakini hakuweza kuzifikia zabibu
+book_7865_line_0012.wav: Alianguka mara nying hadi mgongo ukamuuma
+book_7865_line_0013.wav: Hatimaye, alikata tamaa na kwenda zake
+book_7865_line_0014.wav: Mbweha alijawa na majuto
+book_7865_line_0015.wav: Alisimama, akatazama nyuma na kuziangalia tena zile zabibu, 'Zabibu hizo, hata hivyo, zinaonekana chachu
+book_7865_line_0016.wav: ' Akajiliwaza
+book_7865_line_0017.wav: Aliondoka akaenda zake huku akihisi njaa kuliko hapo awali

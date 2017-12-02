@@ -1,0 +1,13 @@
+book_6169_line_title.wav: Mvulana Na Majitu. 
+book_6169_line_0001.wav: Kijiji kimoja kilikuwa karibu na msitu mkubwa
+book_6169_line_0002.wav: Msitu huo ulikuwa na majitu
+book_6169_line_0003.wav: Watu wengi waliliwa na majitu
+book_6169_line_0004.wav: Ekeno alionywa na wazazi asiingie msituni
+book_6169_line_0005.wav: Ekeno alipuuza ushauri wa wazazi
+book_6169_line_0006.wav: Siku moja akaenda msituni
+book_6169_line_0007.wav: Hapo alikutana na jitu
+book_6169_line_0008.wav: Alimpeleka katikati ya msitu
+book_6169_line_0009.wav: Alivamiwa na majitu wakamla
+book_6169_line_0010.wav: Wenzake walienda kumtafuta
+book_6169_line_0011.wav: Jirani mmoja aliwaelekeza kuwa Ekeno aliingia msituni
+book_6169_line_0012.wav: Waliamini kuwa ameliwa na fisi
